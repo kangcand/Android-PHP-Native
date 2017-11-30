@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KoneksiDB</string>
+    <string name="title_activity_tampilan_semua_pgw">TampilanSemuaPgw</string>
+</resources>
